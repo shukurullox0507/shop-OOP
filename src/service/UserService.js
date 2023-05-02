@@ -40,7 +40,7 @@ var UserService = /** @class */ (function () {
         return null;
     };
     UserService.prototype.getUserList = function () {
-        return this.getUserList;
+        return this.userList;
     };
     return UserService;
 }());

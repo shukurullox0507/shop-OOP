@@ -37,7 +37,7 @@ export class UserService {
         return null
     }
     getUserList(){
-        return this.getUserList
+        return this.userList
     }
 
 }
